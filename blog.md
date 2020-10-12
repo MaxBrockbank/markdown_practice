@@ -1,0 +1,2 @@
+# First Day at Bootcamp
+Today, Oct 12th, was my first day at Epicodus. Worked in a mob pair with Tyler and Sean. We have practiced using the Git, Git hub and now Markdown. I also learned that I need to figure out what is wrong with my git config file. 
